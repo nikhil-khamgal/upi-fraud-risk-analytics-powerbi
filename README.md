@@ -42,7 +42,7 @@ The simulated sample was built so its fraud rate rises to a peak in 2023 and the
 | 4. Risk profile | New versus known payees, account age, velocity, age group, highest-risk segments |
 | 5. Insights and recommendations | Findings, four recommendations and fraud rate by year |
 
-Screenshots: `screenshots/01_overview.png`, `02_fraud_landscape.png`, `03_when_and_where.png`, `04_risk_profile.png`, `05_insights.png`.
+Screenshots: `01_overview.png`, `02_fraud_landscape.png`, `03_when_and_where.png`, `04_risk_profile.png`, `05_insights.png`.
 
 ## Key findings (sample data)
 - **Collect requests are the riskiest transaction type**: about 32% fraud rate versus about 6% overall.
