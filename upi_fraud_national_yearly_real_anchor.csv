@@ -1,0 +1,6 @@
+financial_year,fraud_incidents,fraud_loss_inr_crore,upi_volume_bn_approx,upi_value_lakh_crore_approx,data_status,source_note
+FY2021-22,,242,46.0,84.2,fraud=official; volume/value=approx VERIFY on NPCI,Lok Sabha reply (MoS Finance) for fraud loss; NPCI UPI Product Statistics for volume/value
+FY2022-23,725000,573,83.8,139.1,fraud=official; volume/value=approx VERIFY on NPCI,Lok Sabha reply (Finance Ministry); NPCI UPI Product Statistics
+FY2023-24,1342000,1087,131.1,199.9,fraud=official; volume/value=approx VERIFY on NPCI,Lok Sabha reply (Finance Ministry); NPCI UPI Product Statistics
+FY2024-25,1264000,981,185.9,260.6,fraud=official; volume/value=approx VERIFY on NPCI,Lok Sabha reply (MoS Finance Dec 2025); NPCI UPI Product Statistics
+FY2025-26 (Apr-Nov only),1064000,805,,,PARTIAL YEAR - do not compare directly with full years,Lok Sabha reply (MoS Finance Dec 2025) - incidents reported as "more than 10.64 lakh"
