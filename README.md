@@ -2,7 +2,7 @@
 
 A 5-page Power BI dashboard that analyses UPI payment fraud patterns across 2022 to 2025: which transaction types, payees, hours and customer groups carry the most risk, and what a bank could do about it.
 
-![Overview](screenshots/01_overview.png)
+![Overview](01_overview.png)
 
 ## Problem statement
 UPI volumes and fraud losses have both grown sharply. A bank's risk team needs to know where fraud concentrates so it can add friction where it matters without slowing genuine payments. This project answers four questions:
